@@ -1,0 +1,13 @@
+{
+  "name": "circom-pg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "circomlib": "^2.0.3"
+  },
+  "scripts": {
+    "compile": "circom --output ./output",
+    "verify": "echo 'Define commands!! ' && exit 1"
+    }
+}
