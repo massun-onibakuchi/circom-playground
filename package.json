@@ -1,5 +1,5 @@
 {
-  "name": "circom-pg",
+  "name": "circom-playground",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -7,7 +7,7 @@
     "circomlib": "^2.0.3"
   },
   "scripts": {
-    "compile": "circom --output ./output",
+    "compile": "circom --output ./outputs",
     "verify": "echo 'Define commands!! ' && exit 1"
     }
 }

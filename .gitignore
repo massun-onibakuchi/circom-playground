@@ -13,3 +13,7 @@ node_modules/
 *.r1cs
 **/*_js/
 **/*_cpp/
+
+*.ptau
+*.zkey
+*verification_key*.json
